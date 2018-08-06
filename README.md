@@ -1,6 +1,6 @@
 # avr-remote-alarm
 
-[![Lang](https://badgen.net/badge/Language/Embedded C/orange)](https://badgen.net/badge/Language/Embedded C/orange) [![Contr](https://badgen.net/badge/Controller/ATmega 328P/F96854)](https://badgen.net/badge/Controller/ATmega 328P/blue) [![license](https://badgen.net/badge/licence/MIT/blue)](./LICENSE)
+![Lang](https://badgen.net/badge/Language/Embedded-C/orange) ![Contr](https://badgen.net/badge/Controller/ATmega-328P/F96854) [![license](https://badgen.net/badge/licence/MIT/blue)](./LICENSE)
 
 <img src="https://raw.githubusercontent.com/tasoskakour/avr-remote-alarm/master/demo.gif">
 
