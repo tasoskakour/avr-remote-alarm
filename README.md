@@ -2,7 +2,7 @@
 
 ![Lang](https://badgen.net/badge/Language/Embedded-C/orange) ![Contr](https://badgen.net/badge/Controller/ATmega-328P/F96854) [![License](https://badgen.net/badge/Licence/MIT/blue)](./LICENSE)
 
-<img src="https://raw.githubusercontent.com/tasoskakour/avr-remote-alarm/master/demo.gif">
+<img src="demo.gif">
 
 ### Description
 Use your AVR mictrocontroller to set an alarm from your remote.
